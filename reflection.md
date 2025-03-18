@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This assignment wasn't too difficult overall. It was mostly what we covered in class. the pandaslib portion was straightforward and easy with finishing the functions. The second part where I had to put it all together was the most difficult part, as I had to go through several errors when trying to convert the file into the DF and displaying it, but I finally was able to figure out my mistake by reading through the code logically. after that, the sorting and displaying the sorted ds was very similar to what we did in the past, so it wasn't too difficult to do.
